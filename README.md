@@ -1,4 +1,4 @@
-# PNU_3983
+# PNU_3983 کدهای شبیه سازی الگوریتم FFT 
 Summer Semester Courses 1399/2020
 /* 
  * Free FFT and convolution (Java)
